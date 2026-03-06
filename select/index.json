@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Aperture",
+  "base_artist": "Harry Styles",
+  "createdAt": "2026-03-06T12:00:07.975056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aperture",
+      "artist": "Extol",
+      "has_synced": true,
+      "path": "select/01_Aperture_Extol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aperture",
+      "artist": "The World Is Quiet Here",
+      "has_synced": false,
+      "path": "select/02_Aperture_The_World_Is_Quiet_Here.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Is Aperture",
+      "artist": "Harry Callaghan",
+      "has_synced": true,
+      "path": "select/03_This_Is_Aperture_Harry_Callaghan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Harry Callaghan - This Is Aperture",
+      "artist": "Harry Callaghan",
+      "has_synced": true,
+      "path": "select/04_Harry_Callaghan_-_This_Is_Aperture_Harry_Callaghan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aperture",
+      "artist": "Snapcase",
+      "has_synced": true,
+      "path": "select/05_Aperture_Snapcase.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Exposure & Aperture",
+      "artist": "Frontierer",
+      "has_synced": true,
+      "path": "select/06_Exposure_&_Aperture_Frontierer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aperture",
+      "artist": "Sleeping At Last",
+      "has_synced": true,
+      "path": "select/07_Aperture_Sleeping_At_Last.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "3-D Aperture",
+      "artist": "Into Eternity",
+      "has_synced": true,
+      "path": "select/08_3-D_Aperture_Into_Eternity.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "3 Dimensional Aperture",
+      "artist": "Into Eternity",
+      "has_synced": true,
+      "path": "select/09_3_Dimensional_Aperture_Into_Eternity.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aperture",
+      "artist": "Be Well",
+      "has_synced": true,
+      "path": "select/10_Aperture_Be_Well.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aperture Of Body",
+      "artist": "Tomb Mold",
+      "has_synced": true,
+      "path": "select/11_Aperture_Of_Body_Tomb_Mold.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aperture",
+      "artist": "Harry Styles",
+      "has_synced": false,
+      "path": "select/pl_01_Aperture_Harry_Styles.txt"
+    }
+  ]
+}
